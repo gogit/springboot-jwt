@@ -1,6 +1,14 @@
-https://start.spring.io/
-
 Spring Boot project to create and validate JWT tokens
+
+## Building it
+
+Clone the repo and build it using
+
+jwt$ mvn clean package
+
+## Running the microservice
+
+jwt$ java -jar target/jwt-0.0.1-SNAPSHOT.jar
 
 ## Create Token
 
