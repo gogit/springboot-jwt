@@ -1,5 +1,9 @@
 Spring Boot project to create and validate JWT tokens
 
+https://medium.com/@pradeep_thomas/securing-microservices-using-spring-boot-and-json-web-tokens-efea98404f66
+
+https://medium.com/@pradeep_thomas/securing-microservices-using-spring-boot-and-json-web-tokens-continued-e453389edaba
+
 ## Building it
 
 Clone the repo and build it using
